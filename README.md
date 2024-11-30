@@ -37,3 +37,4 @@ Des graphiques illustrant les résultats des modèles sont disponibles dans le r
 
 Graphiques de régression linéaire
 Matrices de confusion et courbes ROC pour la classification binaire
+
